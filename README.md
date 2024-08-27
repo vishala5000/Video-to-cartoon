@@ -8,3 +8,8 @@ source cartoonenv/bin/activate
 
 pip install opencv-python moviepy numpy
 
+git clone https://github.com/vishala5000/Video-to-cartoon.git
+
+cd Video-to-cartoon
+python3 vc.py
+
